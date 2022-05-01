@@ -6,4 +6,4 @@
 
 #### 1. 면적
 면적은 전체적인 그래프를 보았을 때 최근 몇 년간 감소하는 추세를 보여주고 있다.
-<img src="https://user-images.githubusercontent.com/56716976/166150647-311e06a8-a458-4c92-87c2-167e61d64f21.png"  width="700" height="300">
+<img src="https://user-images.githubusercontent.com/56716976/166150647-311e06a8-a458-4c92-87c2-167e61d64f21.png"  width="500" height="200">
